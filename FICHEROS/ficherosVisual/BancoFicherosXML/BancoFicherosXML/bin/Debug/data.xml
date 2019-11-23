@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<Banco xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ListaClientes>
+    <Cliente>
+      <Dni>33221122R</Dni>
+      <Nombre>GONZALO</Nombre>
+      <Direccion>C/ Carretera</Direccion>
+      <Edad>45</Edad>
+      <Tlfn>987123456</Tlfn>
+      <Cc>234</Cc>
+    </Cliente>
+    <Cliente>
+      <Dni>12121212A</Dni>
+      <Nombre>LORENA</Nombre>
+      <Direccion>Plaza Roma</Direccion>
+      <Edad>31</Edad>
+      <Tlfn>444555444</Tlfn>
+      <Cc>555</Cc>
+    </Cliente>
+    <Cliente>
+      <Dni>21212121F</Dni>
+      <Nombre>MARCOS</Nombre>
+      <Direccion>C/ Sevilla s/n</Direccion>
+      <Edad>28</Edad>
+      <Tlfn>123456789</Tlfn>
+      <Cc>432</Cc>
+    </Cliente>
+    <Cliente>
+      <Dni>28121212S</Dni>
+      <Nombre>CARLOS</Nombre>
+      <Direccion>Avd. La Paz Nº 2</Direccion>
+      <Edad>38</Edad>
+      <Tlfn>333444555</Tlfn>
+      <Cc>323</Cc>
+    </Cliente>
+  </ListaClientes>
+</Banco>
