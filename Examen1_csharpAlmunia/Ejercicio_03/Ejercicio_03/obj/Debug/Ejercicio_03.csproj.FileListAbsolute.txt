@@ -1,0 +1,9 @@
+C:\CsharpProjects\Examen1_csharpAlmunia\Ejercicio_03\Ejercicio_03\bin\Debug\Ejercicio_03.exe.config
+C:\CsharpProjects\Examen1_csharpAlmunia\Ejercicio_03\Ejercicio_03\bin\Debug\Ejercicio_03.exe
+C:\CsharpProjects\Examen1_csharpAlmunia\Ejercicio_03\Ejercicio_03\bin\Debug\Ejercicio_03.pdb
+C:\CsharpProjects\Examen1_csharpAlmunia\Ejercicio_03\Ejercicio_03\obj\Debug\Ejercicio_03.csprojAssemblyReference.cache
+C:\CsharpProjects\Examen1_csharpAlmunia\Ejercicio_03\Ejercicio_03\obj\Debug\Ejercicio_03.Form1.resources
+C:\CsharpProjects\Examen1_csharpAlmunia\Ejercicio_03\Ejercicio_03\obj\Debug\Ejercicio_03.Properties.Resources.resources
+C:\CsharpProjects\Examen1_csharpAlmunia\Ejercicio_03\Ejercicio_03\obj\Debug\Ejercicio_03.csproj.GenerateResource.cache
+C:\CsharpProjects\Examen1_csharpAlmunia\Ejercicio_03\Ejercicio_03\obj\Debug\Ejercicio_03.exe
+C:\CsharpProjects\Examen1_csharpAlmunia\Ejercicio_03\Ejercicio_03\obj\Debug\Ejercicio_03.pdb

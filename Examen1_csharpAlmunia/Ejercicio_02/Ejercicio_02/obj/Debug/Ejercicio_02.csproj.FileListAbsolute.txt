@@ -1,0 +1,6 @@
+C:\CsharpProjects\Examen1_csharpAlmunia\Ejercicio_02\Ejercicio_02\bin\Debug\Ejercicio_02.exe.config
+C:\CsharpProjects\Examen1_csharpAlmunia\Ejercicio_02\Ejercicio_02\bin\Debug\Ejercicio_02.exe
+C:\CsharpProjects\Examen1_csharpAlmunia\Ejercicio_02\Ejercicio_02\bin\Debug\Ejercicio_02.pdb
+C:\CsharpProjects\Examen1_csharpAlmunia\Ejercicio_02\Ejercicio_02\obj\Debug\Ejercicio_02.csprojAssemblyReference.cache
+C:\CsharpProjects\Examen1_csharpAlmunia\Ejercicio_02\Ejercicio_02\obj\Debug\Ejercicio_02.exe
+C:\CsharpProjects\Examen1_csharpAlmunia\Ejercicio_02\Ejercicio_02\obj\Debug\Ejercicio_02.pdb

@@ -1,0 +1,6 @@
+C:\CsharpProjects\FileFileInfoEjemplosUso\FileFileInfoEjemplosUso\bin\Debug\FileFileInfoEjemplosUso.exe.config
+C:\CsharpProjects\FileFileInfoEjemplosUso\FileFileInfoEjemplosUso\bin\Debug\FileFileInfoEjemplosUso.exe
+C:\CsharpProjects\FileFileInfoEjemplosUso\FileFileInfoEjemplosUso\bin\Debug\FileFileInfoEjemplosUso.pdb
+C:\CsharpProjects\FileFileInfoEjemplosUso\FileFileInfoEjemplosUso\obj\Debug\FileFileInfoEjemplosUso.csprojAssemblyReference.cache
+C:\CsharpProjects\FileFileInfoEjemplosUso\FileFileInfoEjemplosUso\obj\Debug\FileFileInfoEjemplosUso.exe
+C:\CsharpProjects\FileFileInfoEjemplosUso\FileFileInfoEjemplosUso\obj\Debug\FileFileInfoEjemplosUso.pdb

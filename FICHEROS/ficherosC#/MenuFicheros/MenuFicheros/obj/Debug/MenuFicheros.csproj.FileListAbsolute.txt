@@ -1,0 +1,6 @@
+C:\CsharpProjects\MenuFicheros\MenuFicheros\bin\Debug\MenuFicheros.exe.config
+C:\CsharpProjects\MenuFicheros\MenuFicheros\bin\Debug\MenuFicheros.exe
+C:\CsharpProjects\MenuFicheros\MenuFicheros\bin\Debug\MenuFicheros.pdb
+C:\CsharpProjects\MenuFicheros\MenuFicheros\obj\Debug\MenuFicheros.csprojAssemblyReference.cache
+C:\CsharpProjects\MenuFicheros\MenuFicheros\obj\Debug\MenuFicheros.exe
+C:\CsharpProjects\MenuFicheros\MenuFicheros\obj\Debug\MenuFicheros.pdb
